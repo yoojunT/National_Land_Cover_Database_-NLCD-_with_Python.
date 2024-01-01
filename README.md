@@ -1,2 +1,3 @@
-# National_Land_Cover_Database_-NLCD-_with_Python.
-Jupyter Notebook on Google Colab providing how to grab land cover info based on GPS coordinates (WGS84) from the National Land Cover Database (NLCD) using Python
+## National Land Cover Database (NLCD) in Python.
+This Google Colab Jupyter Notebook demonstrates how to fetch land cover information based on GPS coordinates (WGS84) from the National Land Cover Database (NLCD) using Python. Follow along for a step-by-step guide in 'National Land Cover Database (NLCD) with Python.ipynb'.
+
